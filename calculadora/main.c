@@ -3,7 +3,7 @@
 #include <locale.h>
 
 int main(int argc, char const *argv[]){
-    //setlocale(LC_ALL, "Portuguese");
+    //setlocale(LC_ALL, "Portuguese");  
     int operacao;
     float n1,n2, resultado;
 
