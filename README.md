@@ -1,3 +1,3 @@
 # Codigos-Diversos
 
-Estou fazendo testes, relembrando e aprendendo.
+I am testing, remembering and learning.
